@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loja.iml" filepath="$PROJECT_DIR$/.idea/modules/Loja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loja_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Loja_integrationTest.iml" group="Loja" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loja_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Loja_main.iml" group="Loja" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loja_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Loja_test.iml" group="Loja" />
+    </modules>
+  </component>
+</project>
